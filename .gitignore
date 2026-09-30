@@ -1,0 +1,26 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Downloaded datasets / generated data
+data/
+datasets/
+GSE*/
+*.gz
+
+# Reports and source archives
+*.pdf
+*.doc
+*.docx
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
