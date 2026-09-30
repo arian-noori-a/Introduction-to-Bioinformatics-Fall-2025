@@ -29,5 +29,3 @@ HW3/
 - dplyr
 - dbscan
 - umap
-
-Only the practical notebooks are included; assignment reports and documents are excluded.
